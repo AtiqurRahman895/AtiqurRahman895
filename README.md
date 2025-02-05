@@ -18,7 +18,7 @@
 <h2>🌐 Connect with Me</h2>
 <p>
   <a href="https://wa.me/8801408368799">
-    <img src="https://img.shields.io/badge/WhatsApp-%2300A859.svg?" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-%2300A859.svg?logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://facebook.com/atikemon.hassan.1" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
