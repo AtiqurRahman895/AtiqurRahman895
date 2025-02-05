@@ -15,8 +15,11 @@
   📖 Enjoy reading in my spare time (especially comics)
 </p>
 
-<h2>🌐 Socials</h2>
+<h2>🌐 Connect with Me</h2>
 <p>
+  <a href="tel:+1234567890">
+    <img src="https://img.shields.io/badge/📞%20Call%20Me-%2300A859.svg?" alt="Phone">
+  </a>
   <a href="https://facebook.com/atikemon.hassan.1" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
