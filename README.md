@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/kV5vGPsM/Frontend-Developer.png" alt="Frontend Developer Banner" />
 </div>
 
-<h1>Hello! 👋 I am Atiqur Rahman!</h1>
+<h1>Hello! 👋 I am Atiqur Rahman.</h1>
   <p>
     I am a passionate frontend developer who loves creating intuitive and dynamic user interfaces. I started my coding journey in 2021 and am continuously exploring new            technologies. Currently, I'm diving into Remix.js while building modern web applications with the MERN stack (MongoDB, Express.js, React, Node.js).
   </p>
