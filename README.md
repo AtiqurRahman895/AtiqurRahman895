@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/PvBh89P4/Frontend-Developer.png" alt="Frontend Developer Banner" />
+  <img src="https://i.ibb.co.com/kV5vGPsM/Frontend-Developer.png" alt="Frontend Developer Banner" />
 </div>
 
 <h1>Hello! 👋 I am Atiqur Rahman!</h1>
