@@ -16,10 +16,10 @@
 </p>
 
 <h2>🌐 Connect with Me</h2>
-<p>
-  <a href="tel:+8801408368799">
-    <img src="https://img.shields.io/badge/📞%20Call%20Me-%2300A859.svg?" alt="Phone">
-  </a>
+<div>
+<a href="tel:+8801408368799">
+  <img src="https://img.shields.io/badge/📞%20Call%20Me-%2300A859.svg?" alt="Phone">
+</a>
   <a href="https://facebook.com/atikemon.hassan.1" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -29,7 +29,7 @@
   <a href="mailto:itsatiqur28@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
 <h2>💻 Tech Stack</h2>
 
